@@ -4,13 +4,15 @@ Este projeto é uma versão reduzida e simplificada de um sistema de cadastro de
 
 ## 🚀 Tecnologias Utilizadas
 
-- PHP (Back-end)
-- MySQL (Banco de dados)
+- PHP 8.0 ou superior (com suporte a `php-fpm`)
+- Extensão `php-mysql` para integração com o banco de dados
+- MySQL (Banco de dados relacional)
+- Nginx (Servidor Web)
 - HTML/CSS
 - JavaScript
-- Kali linux
+- Kalilinux
 
-## 💡 Funcionalidades
+##  Funcionalidades
 
 ### Cadastro de Pessoas
 - Registro de pessoas com os campos:
@@ -32,7 +34,7 @@ Este projeto é uma versão reduzida e simplificada de um sistema de cadastro de
 - Consulta com filtros (ex: buscar imóveis por logradouro)
 - Uso de framework de componentes para front-end (como Bootstrap)
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```plaintext
 / (raiz)
